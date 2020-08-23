@@ -1,0 +1,107 @@
+[
+  {
+    "id": "9f9dc1d7-9ddb-4723-a4c7-1000c083c63b",
+    "data": [
+      {
+        "text": "I want to test you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-in",
+    "updated": 0
+  },
+  {
+    "id": "d8584829-f406-4248-9594-cc96a5c2268d",
+    "data": [
+      {
+        "text": "just testing you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-in",
+    "updated": 0
+  },
+  {
+    "id": "427bf46f-d20f-4b78-8729-874934391ecf",
+    "data": [
+      {
+        "text": "testing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-in",
+    "updated": 0
+  },
+  {
+    "id": "1d001a57-65b7-42e9-a2cd-de32b19ecac8",
+    "data": [
+      {
+        "text": "testing chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-in",
+    "updated": 0
+  },
+  {
+    "id": "763ec2d6-e5a1-4e54-baa5-c248527e3684",
+    "data": [
+      {
+        "text": "let me test you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-in",
+    "updated": 0
+  },
+  {
+    "id": "8900ec78-596d-4e20-998c-2f77baf4d223",
+    "data": [
+      {
+        "text": "can I test you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-in",
+    "updated": 0
+  },
+  {
+    "id": "ea407e88-aa47-4983-9107-4c34a6da515c",
+    "data": [
+      {
+        "text": "I am testing you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-in",
+    "updated": 0
+  },
+  {
+    "id": "9bf34bb9-91dd-48ef-a733-388b6dc2bbf5",
+    "data": [
+      {
+        "text": "test",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-in",
+    "updated": 0
+  }
+]

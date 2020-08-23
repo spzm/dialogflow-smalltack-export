@@ -1,0 +1,143 @@
+[
+  {
+    "id": "7fad689c-a610-4a6f-8688-4266e12f6ebb",
+    "data": [
+      {
+        "text": "miss",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "06486302-901a-4f75-9bdb-cd84e9f326b1",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "miss",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "a59b119f-cbce-4c94-806d-73041a1250c6",
+    "data": [
+      {
+        "text": "I\u0027ve ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "081d91aa-8dbf-416f-80f3-e6ececa3e5ad",
+    "data": [
+      {
+        "text": "already ",
+        "userDefined": false
+      },
+      {
+        "text": "miss",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "a7d0b451-004a-463c-b831-f70d36c029a7",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "miss",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "9ff13c46-c43b-4a9c-9e1e-09594cf95fc7",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  },
+  {
+    "id": "0e1ecf96-75b0-45b4-b641-a6a2dd86bfcc",
+    "data": [
+      {
+        "text": "missing you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-us",
+    "updated": 0
+  }
+]
